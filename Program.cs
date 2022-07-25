@@ -16,7 +16,7 @@ namespace Semana2_primer__proyecto_visualcsharp_formularios
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new TareaSemana2());
         }
     }
 }
